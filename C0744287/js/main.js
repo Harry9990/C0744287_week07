@@ -24,8 +24,9 @@ var bear = {
 
 var bookOfKnowledge =
 {
-    "lunch time":: "12:30 PM",
+    "lunch time": "12:30 PM",
     "the ultimate answer": 42,
     bestSong: "Lonnie's Lamesnt",
     earth: "Mostly harmless"
 };
+
