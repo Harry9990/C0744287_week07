@@ -21,3 +21,11 @@ var bear = {
     noisy: true,
     deadly: true
 };
+
+var bookOfKnowledge =
+{
+    "lunch time":: "12:30 PM",
+    "the ultimate answer": 42,
+    bestSong: "Lonnie's Lamesnt",
+    earth: "Mostly harmless"
+};
